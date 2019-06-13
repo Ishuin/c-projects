@@ -1,3 +1,5 @@
+//a program to find two numbers, which when squared and summed up, gives 1105 as the result.
+
 #include<stdio.h>
 #include<stdlib.h>
 
